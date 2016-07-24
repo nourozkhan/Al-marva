@@ -1,0 +1,130 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Al-Marwa Travels</title>
+<style>
+h1
+{
+	text-align: center;
+    font-size: 50px;
+    padding: 20px;
+    margin: auto;
+	text-shadow:2px 2px 3px #666666;
+	}
+	
+#div1
+{
+	/*background-color:#697386;*/
+	    padding: 20px 20px 20px 20px;
+    margin: -15px 10px 0px -10px;
+	}
+	
+li
+{
+	font-size:25px;
+	font-family:"Courier New", Courier, monospace;
+	text-align:center;
+	color:#336;
+	}			
+	
+#div2
+{
+	height: 500px;
+    width: 180px;
+      /* background-color:#30296b;*/
+	float:left;
+	margin: 60px 20px 0px 0px;
+    padding: 20px 20px 20px 30px;
+	}	
+	
+#div3
+{
+	/*background-color: #30296b;*/
+    height: 560px;
+    width: 273px;
+    text-align: center;
+    float: right;
+    color: #b4b2c5;
+	    margin: 0px 30px 20px 20px;
+    padding: 20px 30px 20px 20px;;
+	}	
+	
+body
+{
+	/*background-color:rgb(197, 194, 192)*/
+	}	
+	
+#div4 
+{
+	float:left;
+	padding: 0px 0px 0px 0px;
+    margin: 15px 25px 0px 0px;
+	}
+	
+li>a
+{
+	color:#b8bac3
+	text-align:left;
+	}	
+a:link 
+{
+	text-decoration:none;
+	color:#3C0;}
+a:visited
+{
+	text-decoration:none;
+	color:#F99;}
+a:hover
+{
+	text-decoration:underline;
+	color:#39C;}
+a:active
+{
+	color:#C03;
+	text-decoration:none;}	
+#div5{
+	padding:20px 20px 20px 20px;
+	margin:30px 10px 10px 90px;
+	}	
+p{
+	text-transform:capitalize;
+	}	
+					
+
+</style>
+</head>
+
+<body>
+<script>
+
+
+</script>
+
+
+<div id="div1">
+<span id="div4">
+<img src="download.png" title="logo" alt="logo" height="120px" width="170px">
+</span>
+<h1> AL-MARWA TRAVELS</h1>
+<hr/>
+</div>
+
+<div id="div2">
+<ul>
+<li><a href="index.html">HOME</a></li><hr/>
+<li><a href="aboutUs.html">ABOUT US</a></li><hr/>
+<li><a href="contact.html">CONTACT</a></li><hr/>
+</ul>
+</div>
+
+<img id="div5" src="aero.jpg" title="aeroplan image" alt="aeroplan image" height="300px" width="550px">
+
+<div id="div3">
+<h2> NEWS</h2>
+<p> Recently Al-marva travel agency open his new branch in dubai.</p>
+</div>
+
+
+</body>
+</html>

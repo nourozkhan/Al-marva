@@ -1,0 +1,37 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Contact</title>
+<!--<link rel="stylesheet" href="about.css" type="text/css">
+-->
+<style>
+h1{
+	background-color:#366;
+	color:#F63;
+	text-align:center;
+	font-family:"Courier New", Courier, monospace;
+	font-size:36px;
+	padding:20px;
+	}
+p{
+	color:#0CF;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:18px;
+	text-align:center;
+	}
+</style>
+</head>
+
+<body>
+<h1>CONTACT</h1>
+<hr/>
+<p> Name:Nouroz khan <br/><br/>
+	Phone No.:03343668761 <br/><br/>
+    Email Address:<a href="mailto:nouroz.khan1.nk@gmail.com">Email nouroz khan</a><br/><br/>
+    Adress:Office No.:A36 Salman Tower Main Sharah-e-Faisal oppsite nadra office malir city karachi.
+    </p>
+
+
+</body>
+</html>

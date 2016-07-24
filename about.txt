@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>About us</title>
+<style>
+h1{
+	background-color:#366;
+	color:#F63;
+	text-align:center;
+	font-family:"Courier New", Courier, monospace;
+	font-size:36px;
+	padding:20px;
+	}
+p{
+	color:#0CF;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:18px;
+	text-align:center;
+	}
+</style>
+</head>
+
+<body>
+<h1>ABOUT US</h1><hr/>
+<p>Our office was establish in 2011.<br/>Now we are working for the progress to optimize our business.<br/>
+We have very energitic team.</p>
+</body>
+</html>
